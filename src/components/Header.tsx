@@ -4,8 +4,6 @@ const NAV_ITEMS = [
   { to: '/', label: 'Trang Chủ', end: true },
   { to: '/projects', label: 'Dự Án', end: false },
   { to: '/about', label: 'Giới Thiệu', end: false },
-  { to: '/chi-phi', label: 'Chi Phí Thiết Kế', end: false },
-  { to: '/bao-gia', label: 'Báo Giá Thi Công', end: false },
   { to: '/contact', label: 'Liên Hệ', end: false },
 ];
 

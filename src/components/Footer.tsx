@@ -22,8 +22,6 @@ export default function Footer() {
               { to: '/', label: 'Trang Chủ' },
               { to: '/projects', label: 'Dự Án' },
               { to: '/about', label: 'Giới Thiệu' },
-              { to: '/chi-phi', label: 'Chi Phí Thiết Kế' },
-              { to: '/bao-gia', label: 'Báo Giá Thi Công' },
               { to: '/contact', label: 'Liên Hệ' },
             ].map(({ to, label }) => (
               <li key={to}>
