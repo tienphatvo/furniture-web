@@ -21,7 +21,7 @@ export default function ProjectsPage() {
     <div>
       <section className="max-w-7xl mx-auto px-6 pt-14 pb-8">
         <p className="text-xs tracking-[0.4em] uppercase text-stone-400 mb-3">
-          architecture · interior · landscape
+          architecture · interior · furniture
         </p>
         <h1 className="text-4xl md:text-6xl font-light text-stone-900 leading-tight max-w-2xl">
           Dự Án
