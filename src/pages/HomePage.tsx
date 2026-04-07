@@ -46,7 +46,7 @@ export default function HomePage() {
 
         <div className="mt-5">
           <p className="text-4xl md:text-5xl text-white font-light tracking-wide">
-            <span className="font-bold">DEF</span>design
+            <span className="font-bold">ORANGE MOON DECOR</span>
           </p>
           <p className="text-sm tracking-[0.25em] text-stone-300 mt-2">
             architecture | interior | Furniture
