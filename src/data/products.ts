@@ -1,4 +1,4 @@
-export interface Project {
+export interface product {
   id: string;
   title: string;
   category: 'architecture' | 'interior' | 'landscape';
@@ -10,7 +10,7 @@ export interface Project {
   tags: string[];
 }
 
-export const projects: Project[] = [
+export const products: product[] = [
   {
     id: 'meldrum-villa',
     title: 'Meldrum Villa',

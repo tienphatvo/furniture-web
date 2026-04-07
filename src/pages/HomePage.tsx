@@ -49,7 +49,7 @@ export default function HomePage() {
             <span className="font-bold">DEF</span>design
           </p>
           <p className="text-sm tracking-[0.25em] text-stone-300 mt-2">
-            architecture | interior | landscape
+            architecture | interior | Furniture
           </p>
         </div>
 

@@ -13,8 +13,8 @@ const teamMembers = [
   },
   {
     name: 'Minh Hoang',
-    role: 'Landscape Architect',
-    bio: 'Minh brings a deep knowledge of tropical horticulture and outdoor living to every landscape project, from rooftop gardens to resort grounds.',
+    role: 'Furniture Architect',
+    bio: 'Minh brings a deep knowledge of tropical horticulture and outdoor living to every Furniture project, from rooftop gardens to resort grounds.',
     image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80',
   },
 ];
@@ -29,10 +29,10 @@ export default function AboutPage() {
           We design spaces<br />that tell stories.
         </h1>
         <p className="text-stone-600 leading-relaxed text-base mb-4">
-          DEF Design Studio is a multidisciplinary practice based in Bao Loc, Lam Dong Province, Vietnam. Founded in 2018, we work across architecture, interior design and landscape to create environments that are deeply rooted in their context, culture and climate.
+          DEF Design Studio is a multidisciplinary practice based in Bao Loc, Lam Dong Province, Vietnam. Founded in 2018, we work across architecture, interior design and Furniture to create environments that are deeply rooted in their context, culture and climate.
         </p>
         <p className="text-stone-600 leading-relaxed text-base mb-4">
-          Our process is collaborative and detail-driven. We believe that great design emerges from listening — to our clients, to the landscape, to the materials we work with. Every project, regardless of scale, is approached with the same rigour and care.
+          Our process is collaborative and detail-driven. We believe that great design emerges from listening — to our clients, to the Furniture, to the materials we work with. Every project, regardless of scale, is approached with the same rigour and care.
         </p>
         <p className="text-stone-600 leading-relaxed text-base">
           From intimate residential interiors to large-scale public architecture, we are committed to crafting work that improves lives, enriches communities and stands the test of time.

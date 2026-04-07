@@ -1,5 +1,13 @@
 @import "tailwindcss";
-
+@font-face {
+  font-family: 'UTM Avo';
+  src: url('./assets/fonts/utm-avo.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  font-family: 'UTM Avo', sans-serif !important;
+}
 @layer base {
   * { box-sizing: border-box; margin: 0; padding: 0; }
   html { scroll-behavior: smooth; }

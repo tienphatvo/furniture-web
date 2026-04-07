@@ -9,7 +9,7 @@ export default function Footer() {
           <p className="text-2xl font-bold tracking-widest text-white uppercase mb-2">DEF</p>
           <p className="text-xs tracking-[0.3em] uppercase text-stone-500 mb-4">Design Studio</p>
           <p className="text-sm leading-relaxed">
-            Architecture · Interior · Landscape<br />
+            Architecture · Interior · Furniture<br />
             Based in Bao Loc, Lam Dong, Vietnam.
           </p>
         </div>
@@ -21,6 +21,7 @@ export default function Footer() {
             {[
               { to: '/', label: 'Trang Chủ' },
               { to: '/projects', label: 'Dự Án' },
+               { to: '/products', label: 'Sản Phẩm' },
               { to: '/about', label: 'Giới Thiệu' },
               { to: '/contact', label: 'Liên Hệ' },
             ].map(({ to, label }) => (

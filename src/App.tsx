@@ -7,6 +7,7 @@ import AboutPage from "./pages/AboutPage";
 import ContactPage from "./pages/ContactPage";
 import ChiPhiPage from "./pages/ChiPhiPage";
 import BaoGiaPage from "./pages/BaoGiaPage";
+import ProductsPage from "./pages/ProductsPage";
 
 export default function App() {
   return (
@@ -20,6 +21,7 @@ export default function App() {
           <Route path="/chi-phi" element={<ChiPhiPage />} />
           <Route path="/bao-gia" element={<BaoGiaPage />} />
           <Route path="/contact" element={<ContactPage />} />
+          <Route path="/products" element={<ProductsPage />} />
         </Route>
       </Routes>
     </BrowserRouter>

@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom';
 const NAV_ITEMS = [
   { to: '/', label: 'Trang Chủ', end: true },
   { to: '/projects', label: 'Dự Án', end: false },
+   { to: '/products', label: 'Sản Phẩm', end: false },
   { to: '/about', label: 'Giới Thiệu', end: false },
   { to: '/contact', label: 'Liên Hệ', end: false },
 ];
